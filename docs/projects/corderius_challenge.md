@@ -7,6 +7,7 @@ Dit is een mooie plek om Corderius te leren kennen. Het bevat belangrijke inform
 
 Daarnaast kun je natuurlijk fysiek naar het Corderius tegen het Open Huis.
 
+## Idee
 Zijn dat alle opties? Nee! [Gamification](https://en.wikipedia.org/wiki/Gamification) is afgelopen jaren erg populair geworden.
 Door ergens een spel van te maken leer je veel en het is nog leuk ook!
 
@@ -14,6 +15,15 @@ Het voorstel is om de Corderius Challenge te maken.
 Via applicaties zoals [seppo](https://seppo.io/) en [Minecraft Education Edition](https://education.minecraft.net/nl-nl/homepage)
 gaan we ontdekken hoe we een game te kunnen maken zodat onze **shareholders** (leerlingen, ouders, en nog veel meer) de school
 zo goed mogelijk kunnen leren kennen.
+
+## Benodigdheden
+
+* [seppo](https://seppo.io/) of
+* [Minecraft Education Edition](https://education.minecraft.net/nl-nl/homepage) of
+* ....
+
+## Eerdere code voor dit project
+Je bent de eerste!
 
 
 
