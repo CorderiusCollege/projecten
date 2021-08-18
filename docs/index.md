@@ -4,4 +4,5 @@ Op deze pagina vind je ideeën voor projecten!
 
 ## Ideeën
 * [Hoe vaak gaat de deur open en dicht?](projects/deuren_tellen.md)
+* [Corderius Challenge](projects/corderius_challenge.md)
 
